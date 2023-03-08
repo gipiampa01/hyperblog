@@ -2,7 +2,6 @@ body{
     text-align: center;
     color: red;
 }
-<<<<<<< HEAD
 header{
     background-color: black;
     
@@ -16,19 +15,4 @@ header ul li a{
     text-decoration: none;
     color: white;
     font-size: 20px;
-=======
-
-footer{
-
-}
-footer ul{
-    display: flex;
-    justify-content: center;
-    list-style: none;
-    gap: 50px;
-}
-footer ul li a{
-    text-decoration: none;
-    color: black;
->>>>>>> fudder
 }
