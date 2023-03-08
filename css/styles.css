@@ -2,3 +2,17 @@ body{
     text-align: center;
     color: red;
 }
+
+footer{
+
+}
+footer ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 50px;
+}
+footer ul li a{
+    text-decoration: none;
+    color: black;
+}
